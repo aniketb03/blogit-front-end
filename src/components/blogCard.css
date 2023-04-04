@@ -1,0 +1,19 @@
+.blog-card .card-title {
+  font-weight: 900;
+  font-family: sans-serif;
+  font-size: x-large;
+}
+
+.cardBody img {
+  width: 286px;
+  height: 190px;
+  object-fit: cover;
+}
+
+.cardBody {
+  margin: 1rem 1.5rem;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.linkEntity {
+  text-decoration: none;
+}

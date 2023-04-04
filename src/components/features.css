@@ -1,0 +1,26 @@
+.featuresBody {
+  display: flex;
+  gap: 4rem;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 2rem 1rem 2rem;
+  margin: 1rem 2rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+.featuresBody .form-control {
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+  border-radius: 2px;
+  width: 14rem;
+}
+.filterDiv {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-end;
+}
+
+.filterDiv .form-select {
+  padding: 3px;
+  width: 7.5rem;
+}

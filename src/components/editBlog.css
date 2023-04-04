@@ -1,0 +1,12 @@
+.wrapper {
+  margin: 0 12rem;
+  padding: 0 2rem;
+}
+
+.pageTitleDiv {
+  padding: 1rem;
+  border-bottom: 1px solid #ccc;
+}
+.paddingV1H0 {
+  padding: 1rem 0;
+}
